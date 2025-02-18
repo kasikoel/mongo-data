@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "67b4299e8d16a65c52ac9c3a"
+  },
+  "name": "Alice",
+  "age": 22,
+  "course": "AI"
+},
+{
+  "_id": {
+    "$oid": "67b4299e8d16a65c52ac9c3b"
+  },
+  "name": "Bob",
+  "age": 23,
+  "course": "Data Science"
+},
+{
+  "_id": {
+    "$oid": "67b4299e8d16a65c52ac9c3c"
+  },
+  "name": "Charlie",
+  "age": 21,
+  "course": "Cybersecurity"
+},
+{
+  "_id": {
+    "$oid": "67b4299e8d16a65c52ac9c3d"
+  },
+  "name": "David",
+  "age": 24,
+  "course": "Machine Learning"
+},
+{
+  "_id": {
+    "$oid": "67b4299e8d16a65c52ac9c3e"
+  },
+  "name": "Eve",
+  "age": 22,
+  "course": "Cloud Computing"
+},
+{
+  "_id": {
+    "$oid": "67b4299e8d16a65c52ac9c3f"
+  },
+  "name": "Frank",
+  "age": 23,
+  "course": "Networking"
+},
+{
+  "_id": {
+    "$oid": "67b4299e8d16a65c52ac9c40"
+  },
+  "name": "Grace",
+  "age": 25,
+  "course": "Software Engineering"
+},
+{
+  "_id": {
+    "$oid": "67b4299e8d16a65c52ac9c41"
+  },
+  "name": "Hannah",
+  "age": 21,
+  "course": "Data Analytics"
+},
+{
+  "_id": {
+    "$oid": "67b4299e8d16a65c52ac9c42"
+  },
+  "name": "Ivy",
+  "age": 23,
+  "course": "Game Development"
+},
+{
+  "_id": {
+    "$oid": "67b4299e8d16a65c52ac9c43"
+  },
+  "name": "Jack",
+  "age": 22,
+  "course": "Digital Marketing"
+}]
