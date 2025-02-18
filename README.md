@@ -1,12 +1,15 @@
 MongoDB Data and CRUD Operations
+
 This repository contains a sample MongoDB database exported into a JSON file, along with instructions on how to interact with it. The data was initially imported into MongoDB using MongoDB Compass and can be used to perform CRUD (Create, Read, Update, Delete) operations.
 
 How to Run the Project and Use the JSON File
 Prerequisites
+
 Before running this project, make sure you have the following installed:
 
 MongoDB: Download MongoDB and install it on your machine.
 MongoDB Compass: Download MongoDB Compass, the GUI tool for MongoDB, which makes it easier to interact with the database.
+
 Git: Download Git to clone this repository and manage your local project.
 Step 1: Set Up MongoDB
 Start MongoDB Service:
